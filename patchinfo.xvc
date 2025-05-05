@@ -35,6 +35,7 @@ DataTable\en-gb\cr.scp 3d8cbd60c6f1192f07a310aec304abeee9625f10
 DataTable\en-gb\cs.scp df7f2652471e9b66a9dc0555e218c604f2ca4478
 DataTable\en-gb\Csua.txt 5f1dc210f0b06d95325c9308e1629847030346f4
 DataTable\en-gb\cw.scp 7cdb605a42841e1c8de7f5e43fd7b79dc4bd9e90
+DataTable\en-gb\discord.ini 54b0898d2ad57ae5dcca09905529fe09bc2bcc6f
 DataTable\en-gb\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\en-gb\Event_MSG.edf ec7b9956573b10725db2c0b4ee784a7118517abb
 DataTable\en-gb\Exp.edf 86a8a3ffe06fa3f1d5203b5fec098a7d8886ec70
@@ -66,6 +67,7 @@ DataTable\en-gb\NDStore.edf 3ae0696604679d36bfee97f9f320b78e9ff35dd9
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\Quest.edf afeafb659a462f1bd37e6df0641396e874440323
+DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\en-gb\SetItemEffect.edf 1aa666da25de17a33ed5301f75fd8765fd96d269
 DataTable\en-gb\SkillForce.edf d710fd319d19ca28034497b597dfa3b7df28ae9d
@@ -76,6 +78,7 @@ DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 178e834f7b300bcde6d10dfe10ea1c62d553ce6b
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\Exp.edf 86a8a3ffe06fa3f1d5203b5fec098a7d8886ec70
+DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
 DataTable\GameData.edf 63256103d0ff4949415a31420208bd4b033a7c0a
 DataTable\Hint.edf f27049d393fdfca7fb5c4617499edf060341958a
 DataTable\Ipa.dic 726a9b312007cb53345bd8cc82151fd71980249b
