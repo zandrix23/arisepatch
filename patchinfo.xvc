@@ -1,4 +1,4 @@
-DataTable\character.edf 2e8b9f3b3b6ff84e0fd55642512204a0f13dd36e
+DataTable\character.edf f6b9c8e66e443413dae0d337cb2a168a07af1add
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -26,9 +26,9 @@ DataTable\en-gb\fg_cb.ini 68a1e3a06b215199b7b853dda9c5c339ced14bb4
 DataTable\en-gb\font.ini de1e9d58498479627163d7656efe959178792384
 DataTable\en-gb\gamedata.edf 7d2ef0c06489bfe5d511610ec7d469882c98e1fd
 DataTable\en-gb\hint.edf 74819598b41b3e0e897b439d06d30e00ab8bb4d8
-DataTable\en-gb\ndcharacter.edf 48e46dcb662d5a9c353d21c60b413aa7899a6acb
+DataTable\en-gb\ndcharacter.edf 8041cf8034cddc7e258b3aaa72ee4b6ff7a50ea1
 DataTable\en-gb\ndeventship.edf ad53cd04d7ea96008206a664e7527a2026c892c4
-DataTable\en-gb\NDItem.edf d2bb8b0fce63b8dc7245317151f6622fb0a8e45e
+DataTable\en-gb\NDItem.edf cf143fa5f2bcf1ccf51b70fcb06fb0640fab43cf
 DataTable\en-gb\nditemcash.edf 3e499675954d0e5a5fdf7267695852097fdf5b32
 DataTable\en-gb\ndlanguage.edf ef4552494796e25db97e7b28b4a46149db727d5b
 DataTable\en-gb\ndmap.edf 8a705b9c681cd7ec21a2db1e8f708a3b98856678
@@ -36,11 +36,13 @@ DataTable\en-gb\ndmsgevent.edf 968625c834f9c26378b3a6b76bc57e60d0ada851
 DataTable\en-gb\ndmsgmonster.edf 99db0f4ecb2e2cd1cc6af0c8a16ca1d5141eae82
 DataTable\en-gb\ndquest.edf 23b03a1b1b993d25ca9b02b6051a56d8ca9e4d57
 DataTable\en-gb\ndskillforce.edf 592017ad3729c5227fafef9052649dc1a4f6e764
-DataTable\en-gb\ndstore.edf 654b1c2df3aeb83ac174270a4347a75b80ce028d
+DataTable\en-gb\ndstore.edf 3ae0696604679d36bfee97f9f320b78e9ff35dd9
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
-DataTable\item.edf 64f3be2af8a664bc0b47200cf6d0386a376c9a72
+DataTable\item.edf 40b9090f7f43ffebd4f8836e2bd449503f7572ee
+DataTable\ItemCombine.edf b545c8b030a562317831672454ac324da1ad5452
 DataTable\map.edf 88025ce4c8de2b90ce2fa95768fc23bd73b8a48e
+DataTable\store.edf 7ec08325258893337711a55c600d1f5037cac78c
 RF_Online.bin bee5407b28d74cf21bfced7e601f63ac7a7e311a
 SpriteImage\ads\available.png 493b7f88e70475698388e11a3fe9444c1f60a478
 SpriteImage\ads\init.ini 7552c71ffb45973cd92a65043e5f8f6374a11a1c
