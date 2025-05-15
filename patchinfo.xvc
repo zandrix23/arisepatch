@@ -291,15 +291,15 @@ Chef\QG\INDEX\WaveFoot\wav.r3e d417ab5092470f1a343889a5680a865cd33c848a
 Chef\QG\INDEX\WaveFoot\wav.r3m 270f2ec858f35fb6f20e517dfbd3e57317e8bd2d
 Chef\QG\INDEX\WaveFoot\wav.r3t 60bb712e68d7a022cab266bf4e1ea6bb932449a2
 Chef\QG\INDEX\WaveFoot\wav_BACKUP.r3t 60bb712e68d7a022cab266bf4e1ea6bb932449a2
-DataTable\character.edf f65f4ea066719da2d53716bbf0b742a367a9741e
+DataTable\character.edf 9a8d1e977feb7a40bffc9b838b75d14ac035207e
 DataTable\en-gb\discord.ini 54b0898d2ad57ae5dcca09905529fe09bc2bcc6f
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
-DataTable\en-gb\ndcharacter.edf e8d61f3a16689ef2ff46cc5b15cf765ec70805fd
+DataTable\en-gb\ndcharacter.edf 158404f1a56caa76833953a96c48bcfd6b88fa20
 DataTable\en-gb\ndeventship.edf ad53cd04d7ea96008206a664e7527a2026c892c4
 DataTable\en-gb\NDItem.edf 4e18c38d9b7c228d9e0cdd8c2e46098b9e4ff59c
 DataTable\en-gb\nditemcash.edf 6e69e3d9461d532f9ba72c6eb534a7425fd13db1
 DataTable\en-gb\ndlanguage.edf 0308c670788491b2f4ac5f439d62566eb24963bb
-DataTable\en-gb\ndmap.edf c801c34ec0b39a4dc1ea40fab16de9cf143c6f11
+DataTable\en-gb\ndmap.edf 15b5ab3feeac81866943a01552ab0f1220c765af
 DataTable\en-gb\ndmsgevent.edf 968625c834f9c26378b3a6b76bc57e60d0ada851
 DataTable\en-gb\ndmsgmonster.edf 99db0f4ecb2e2cd1cc6af0c8a16ca1d5141eae82
 DataTable\en-gb\ndquest.edf 10b79c334bd343ab16a54d8f2447dab059fd9f39
@@ -314,7 +314,7 @@ DataTable\ItemCombine.edf df49466b8624932f0e28928e8350ec291e2ee67c
 DataTable\itempremium.edf 506202b4453c143b89bb3372296c12df458daa57
 DataTable\itemseteffect.edf 1c515bbf6995e0d27e3d176e6e58bf4715efa254
 DataTable\itemtimer.edf 38b36b8750a95c86458f18403b4aa6043a9d14c3
-DataTable\map.edf 829485a95dcf81511d1967005e02a32215de4ef5
+DataTable\map.edf 711c79522bbf1ed05914574465b17cca7aee0ef6
 DataTable\msgevent.edf a8a33dae4fd864a9a611c3ad92f6ba655546e1aa
 DataTable\playercharacter.edf 850fbf7fa2795fc8e9e7cef60290965e17c4306a
 DataTable\quest.edf 0612ce3a49ae7a58c30019d1aa9485414184ff09
