@@ -104,7 +104,7 @@ DataTable\en-gb\discord.ini 54b0898d2ad57ae5dcca09905529fe09bc2bcc6f
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
 DataTable\en-gb\ndcharacter.edf 099cf37d6d787ce3c2c7a59bc32266426c3a1ce3
 DataTable\en-gb\ndeventship.edf ad53cd04d7ea96008206a664e7527a2026c892c4
-DataTable\en-gb\NDItem.edf 8085d65149db6bedb9cf32388986d82d4dedcc2c
+DataTable\en-gb\NDItem.edf c3678f81c89f05e8ffe38e96b2b6b8b0242ab56f
 DataTable\en-gb\nditemcash.edf 0ec827efc6cf2b6aaa050d3ba32f0e4716a13c1f
 DataTable\en-gb\ndlanguage.edf 0308c670788491b2f4ac5f439d62566eb24963bb
 DataTable\en-gb\ndmap.edf 78f834b06ac1013b6994fdb151cbaee24805c27e
@@ -116,9 +116,9 @@ DataTable\en-gb\ndstore.edf 4c5ecace7bdc04ca2c596bb3163151d467c39499
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\eventship.edf 178e834f7b300bcde6d10dfe10ea1c62d553ce6b
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
-DataTable\item.edf 7646315c1288cf8502d6928244628b3c1ca39f90
+DataTable\item.edf cd43e4fd7a33b4a2d85089bfb565d408ee976543
 DataTable\itemcash.edf b78e3b53945837993e00069d101f3428fc44558b
-DataTable\ItemCombine.edf 6d76254bf3819f7beed370f74e76b7b0cc7b1036
+DataTable\ItemCombine.edf fd5c8642803ca62701701b10dd27887c57a95f3a
 DataTable\itempremium.edf caaabc06a755ba022542b4d2cbc4a932fa99775c
 DataTable\itemseteffect.edf a6fdcca7ee58bf4f677744ed1b9496599c6b73e8
 DataTable\itemtimer.edf bab14d09140fe1c10c2d57ace4ac1550c3ead0a7
