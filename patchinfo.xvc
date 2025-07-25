@@ -1,7 +1,12 @@
 DataTable\en-gb\discord.ini 54b0898d2ad57ae5dcca09905529fe09bc2bcc6f
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
+DataTable\en-gb\NDItem.edf f878bb4bdac655d4abe6778304bda646d2dceddd
+DataTable\en-gb\NDStore.edf 7c80898471a3ebc4520f8f397fcdc19c2783b75e
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
+DataTable\Item.edf 77c3deac49370db6922f32d607938bd9dd301fdc
+DataTable\ItemCombine.edf edd64fe6771f0d3c1b88039bb52888ad5f0d6a4f
+DataTable\Store.edf b1f873bab610db448e698fcc1279810fe38271ee
 RF_Online.bin b6f3683c683a1e7e9eab58d7b992f57d41fa42d2
 SpriteImage\ads\init.ini 89ac0e84f1a792c359e5eca340f7cd2c9135fcd0
 SpriteImage\common\battlepass.spr adf31266cd66b2334c6fa396f7ea190e09007cf9
